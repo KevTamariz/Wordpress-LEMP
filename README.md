@@ -1,6 +1,6 @@
 # Wordpress-LEMP
 
-For this challenge, we have to set up a WordPress, with a DB and a backup server for the WordPress server and DB server, so I become to create 3 VM:
+For this proyect, i have to set up a WordPress, with a DB and a backup server for the WordPress server and DB server, so I become to create 3 VM (GCP):
 1. WordPress server
 2. MariaDB server
 3. Backup server
